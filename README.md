@@ -35,28 +35,6 @@ To work on this project:
 
 ---
 
-## 📢 Stay Connected
-
-👍 Like the video if you found it valuable!  
-💬 Comment your thoughts or dashboard ideas!  
-🔔 Subscribe for more Power BI projects, business analytics tutorials, and real-world case studies.
-
----
-
-## 🌐 Visit Pianalytix for More Resources
-
-🔗 **Website**: [https://pianalytix.com](https://pianalytix.com)  
-Explore 300+ real-world projects in Data Science, Power BI, and Development.
-
----
-
-## 📲 Connect with Pianalytix:
-
-✅ **Instagram**: [@pianalytix.official](https://www.instagram.com/pianalytix.official/)  
-✅ **LinkedIn**: [Pianalytix](https://www.linkedin.com/company/pianalytix/)  
-✅ **YouTube**: [@pianalytixofficial](https://m.youtube.com/@pianalytixofficial)
-
----
 
 ## 📘 Explore Our Udemy Courses:
 
