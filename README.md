@@ -33,11 +33,3 @@ To work on this project:
 - ⚙️ **Operations Managers** optimizing logistics performance
 - 🎓 **Students & Job Seekers** building a strong Power BI portfolio
 
----
-
-
-## 📘 Explore Our Udemy Courses:
-
-- 📌 [Build 45 Real-World Power BI Projects for BI & Data Analysts](https://www.udemy.com/course/data-analytics-course-power-bi-tableau/?couponCode=NOV2024)  
-- 📌 [Data Science Bundle: 180 Hands-On Projects](https://www.udemy.com/course/data-science-projects-mastering-the-real-life-analytics/?couponCode=NOV2024)  
-- 📌 [100 Days of Code: Real-World Data Science Projects Bootcamp](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/?couponCode=NOV2024)
